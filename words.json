@@ -1,0 +1,16 @@
+{
+    "words": [
+        {
+            "id": 123,
+            "name": "hello"
+        },
+        {
+            "id": 124,
+            "name": "table"
+        },
+        {
+            "id": 125,
+            "name": "home"
+        }
+    ] 
+}
